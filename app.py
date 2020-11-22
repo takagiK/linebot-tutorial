@@ -13,7 +13,7 @@ from linebot.models import (
     FollowEvent, MessageEvent, TextMessage, TextSendMessage, ImageMessage,
     ImageSendMessage, TemplateSendMessage, ButtonsTemplate, PostbackTemplateAction,
     MessageTemplateAction, URITemplateAction, StickerMessage,
-    URIAction, RichMenu, PostbackEvents
+    URIAction, RichMenu, PostbackEvent
 )
 
 import os
